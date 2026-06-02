@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"thyroid.jpg",
+        "imagesrc":"https://media.gettyimages.com/id/1124676876/vector/illustration-of-a-womans-painful-throat.jpg?s=612x612&w=gi&k=20&c=EWYdRn7OgAlnMElePa4ktD8DfFBfDl54XqijtQm9Gwg=",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
